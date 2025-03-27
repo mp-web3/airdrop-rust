@@ -1,5 +1,7 @@
 pub mod transfer;
 pub mod empty_dev_wallet;
+pub mod programs;
+pub mod enroll;
 
 #[cfg(test)]
 mod tests {
