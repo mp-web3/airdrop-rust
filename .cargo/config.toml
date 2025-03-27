@@ -1,0 +1,3 @@
+[test]
+# Always run tests with --nocapture to see print statements
+args = ["--nocapture"] 
