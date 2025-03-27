@@ -1,4 +1,5 @@
 pub mod transfer;
+pub mod empty_dev_wallet;
 
 #[cfg(test)]
 mod tests {
